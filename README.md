@@ -6,3 +6,16 @@
 ![alt text](https://i.imgur.com/tu8dqnz.png)
 
 
+# Installation 
+
+Frontend
+```
+npm install
+npm run dev
+```
+
+Backend
+```
+npm install
+node index.js
+```
